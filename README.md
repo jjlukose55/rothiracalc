@@ -28,4 +28,5 @@ Withdrawal Amount (yearly)
 
 <img width="808" alt="image" src="https://github.com/user-attachments/assets/7f3acf27-8bda-42d4-97a0-ef801ff440c1" />
 
-<img width="558" alt="image" src="https://github.com/user-attachments/assets/c598c24a-67b5-4102-a6fa-33b84de42306" />
+<img width="586" alt="image" src="https://github.com/user-attachments/assets/a513928b-1c14-4832-9836-bcb1cb68e1d3" />
+
