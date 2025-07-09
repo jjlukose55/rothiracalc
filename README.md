@@ -7,11 +7,19 @@ expects to generate a tax-free account like a Roth IRA, and this is important to
 involved in a tax-deferred account.
 
 Total Age of Account	
+
 Owner Age at Start	
+
 Withdrawal Age	
+
 Active Years (Years with Contributions)	
+
 Expected APY  	
+
 Principal Amount (Month 1)	
+
 Contribution Amount (Yearly)	
+
 Withdrawal Amount (yearly)
+
 ![image](https://github.com/user-attachments/assets/c3fcb395-05ac-4f2f-90c6-0ec7e52eb629)
